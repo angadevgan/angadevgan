@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | AI/ML Enthusiast | Final-Year CSE Student @ CCET, Chandigarh<br><br>I love building things end-to-end — from training deep learning models to shipping full-stack web apps.
+Full-Stack Developer | AI/ML Enthusiast | Final-Year CSE Student @ CCET, Chandigarh<br>I love building things end-to-end — from training deep learning models to shipping full-stack web apps.
 
 
 ## 🌐 Socials:
